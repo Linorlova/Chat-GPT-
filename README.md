@@ -21,14 +21,58 @@ https://dotinfo.cfd/docs/instructions/karing/
 
 Дальше выбираем Continue with Google.
 
-
-
 Мы рекомендуем заходить через google-почту. Нажимайте Next, как введёте почту.
 
 Внимание: мы вводим пароль от вашей почты, которую вы вводили выше.
 Создавать новый пароль не нужно.
 
 
+**5.  Как оплатить Chat GPT Plus**
+Нажмите на кнопку наверху в центре «Перейти на Plus».
+
+<img width="2139" height="824" alt="image" src="https://github.com/user-attachments/assets/49838f60-5bb5-43ea-9408-3b72beed2254" />
+
+Вам откроется вкладка, где вы сможете выбрать разные тарифы.
+
+<img width="700" height="1080" alt="image" src="https://github.com/user-attachments/assets/a289abf1-f4db-4c76-bd3f-4ba95b079beb" />
+
+**6.  Выбор тарифа и оплата**
+Выберите тариф за $20 в месяц и нажмите на кнопку «Upgrade to Plus».
+
+<img width="1720" height="1080" alt="image" src="https://github.com/user-attachments/assets/94fbcd81-6cd9-4fa9-8e85-643e45d71eed" />
+
+Далее вам откроется окно с оплатой.
+
+Перейдите в бот для оплаты: https://t.me/for_pur_bot
+
+<img width="883" height="603" alt="image" src="https://github.com/user-attachments/assets/747ff313-3108-4ef1-a05e-6c946f90e57d" />
+
+
+Нажмите на значок $ и отправьте сумму, которая была указана в окне оплаты.
+
+<img width="816" height="661" alt="image" src="https://github.com/user-attachments/assets/8cefb331-3613-4eef-bd5e-fba83475dc60" />
+
+После ввода суммы выберите кнопку «да».
+
+<img width="1068" height="794" alt="image" src="https://github.com/user-attachments/assets/598cea86-756a-4a7c-89b5-bb9d34abc91d" />
+
+В течение нескольких минут бот пришлёт вам реквизиты для перевода.
+
+Сделайте перевод ровно той суммы, которая была указана в боте.
+
+Завершение оплаты
+Вернитесь в Chat GPT.
+
+Вернитесь на вкладку, где у вас открыта страница оплаты Chat GPT.
+
+<img width="1087" height="792" alt="image" src="https://github.com/user-attachments/assets/51bb79fc-7f15-4a1d-aa9a-918612480fe2" />
+
+Скопируйте ссылку на эту страницу и отправьте её боту, через которого вы делали оплату.
+
+Подождите 5-10 минут. Обычно оплата проходит успешно.
+
 Готово!
+
+
 
 
